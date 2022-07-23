@@ -6,6 +6,9 @@ Landing page de Academia
 Html5, CSS3 e JavaScript components
 
 ## Let's go 👨‍💻
+
+![Landing-Page-Academia (3)](https://user-images.githubusercontent.com/83453859/180615559-80b15aba-a5bb-4ef4-84d5-04554b91a1ad.JPG)
+
 Você pode ver o projeto através do link abaixo 👇 <br><br>
 [Clique aqui](https://rarisondev.github.io/Landing-Page-Academia)
 
